@@ -1,0 +1,8 @@
+.dependencies/
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+*.7z
+*.zip
